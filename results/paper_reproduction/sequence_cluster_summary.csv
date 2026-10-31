@@ -1,0 +1,17 @@
+cluster_id,size,medoid,medoid_sequence,best_ipTM_candidate,best_ipTM_mean,medoid_ipTM_mean,medoid_pDockQ_mean,members,max_pairwise_substitutions,contains_D13,contains_D44
+C01,9,candidate_0031,HAEGTFTSDVSRYLEEKAAKAFVDRLKRGGG,candidate_0009,0.82,0.81,0.521867,candidate_0009; candidate_0029; candidate_0031; candidate_0058; candidate_0086; candidate_0160; candidate_0164; candidate_0194; candidate_0216,3,False,False
+C02,8,candidate_0018,HAEGTFTSDVSSYLEEKAAKAFVERLKRGRG,candidate_0175,0.833333,0.81,0.528033,candidate_0018; candidate_0023; candidate_0032; candidate_0045; candidate_0052; candidate_0068; candidate_0081; candidate_0175,3,False,False
+C03,7,candidate_0131,HAEGTFTSDVSSYLEEKAVKAFVDRLKRGGG,candidate_0093,0.843333,0.836667,0.5419,candidate_0056; candidate_0093; candidate_0109; candidate_0112; candidate_0131; candidate_0138; candidate_0166,3,False,False
+C04,6,candidate_0046,HAEGTFTSDVSRYLEEKAVKQFVDRLKRGSG,candidate_0227,0.836667,0.826667,0.528033,candidate_0039; candidate_0046; candidate_0057; candidate_0108; candidate_0195; candidate_0227,3,False,False
+C05,6,candidate_0047,HAEGTFTSDVSRYLEEKAVKDFVERLKRGSG,candidate_0044,0.84,0.816667,0.513967,candidate_0044; candidate_0047; candidate_0062; candidate_0106; candidate_0113; candidate_0137,3,False,False
+C06,6,candidate_0111,HAEGTFTSDVSRYLEEKAAKDFVERLKRGAG,candidate_0051,0.823333,0.816667,0.5139,candidate_0051; candidate_0111; candidate_0173; candidate_0183; candidate_0201; candidate_0207,3,False,True
+C07,4,candidate_0043,HAEGTFTSDVSRYLEEQAVKAFVDRLKRGGG,candidate_0237,0.823333,0.823333,0.5183,candidate_0043; candidate_0085; candidate_0096; candidate_0237,2,False,False
+C08,3,candidate_0008,HAEGTFTSDVSRYLEEKQVKNFVDRLKRGSG,candidate_0008,0.81,0.81,0.5134,candidate_0008; candidate_0128; candidate_0236,2,False,False
+C09,3,candidate_0021,HAEGTFTSDVSRYLEEKAAKAFVERLKRGGG,candidate_0027,0.83,0.823333,0.508267,candidate_0021; candidate_0027; candidate_0171,2,False,False
+C10,3,candidate_0225,HAEGTFTSDVSSYLEEKAVKQFVERLKRGAG,candidate_0153,0.843333,0.823333,0.517267,candidate_0153; candidate_0225; candidate_0228,2,False,False
+C11,3,candidate_0213,HAEGTFTSDVSSYLEEKAVKDFVERLKRGRG,candidate_0213,0.84,0.84,0.519967,candidate_0213; candidate_0219; candidate_0232,3,False,False
+C12,2,candidate_0071,HAEGTFTSDVSSYLERQAAKAFVDRLKRGSG,candidate_0097,0.806667,0.806667,0.530567,candidate_0071; candidate_0097,2,False,False
+C13,2,candidate_0082,HAEGTFTSDVSRYLEEKAVKQFVERLRRGGG,candidate_0200,0.84,0.833333,0.520133,candidate_0082; candidate_0200,1,False,False
+C14,2,candidate_0129,HAEGTFTSDVSRYLEEQAAKNFVERLKRGRG,candidate_0165,0.83,0.83,0.519333,candidate_0129; candidate_0165,2,True,False
+C15,2,candidate_0167,HAEGTFTSDVSRYLEEKAAKAFVDRLRRGSG,candidate_0170,0.823333,0.81,0.506967,candidate_0167; candidate_0170,2,False,False
+C16,1,candidate_0241,HAEGTFTSDVSSYLEEQQVKQFVERLKRGRG,candidate_0241,0.793333,0.793333,0.498533,candidate_0241,0,False,False
