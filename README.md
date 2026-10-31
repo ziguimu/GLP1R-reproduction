@@ -4,7 +4,7 @@ Computational reproduction and audit of GLP-1R peptide-design workflows.
 
 This repository joins the local reproduction record, remote recovery, ColabFold, Boltz-2, sequence design, and PCANN screening by project stage. Similar candidate identifiers across stages do not imply identical inputs or protocols. See the dated logs and manifests. The work is computational; no activity or affinity is claimed for novel candidates.
 
-Large prediction outputs will be attached in versioned Releases with source paths and SHA-256 manifests.
+[Download the six sequence-design batch archives and the Boltz2/PCANN archive](https://github.com/ziguimu/GLP1R-reproduction/releases/tag/archive-2026-10-31). Every asset includes source paths and a per-file SHA-256 manifest.
 
 ## 中文说明
 
