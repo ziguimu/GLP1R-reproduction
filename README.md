@@ -17,3 +17,9 @@ Redacted GLP1R competition, handoff and ColabFold result-selection records are i
 ### 对话记录
 
 脱敏后的 GLP1R 赛事信息、项目交接和 ColabFold 结果取舍记录见[对话索引](docs/conversations/README.md)。导入 Markdown 的消息标题计数仅作为资料清单线索，不代表完整线程或分支覆盖。
+
+
+Supplemental WSL ColabFold alignment outputs retained under a documented source and redistribution-terms review: [WSL alignment archive decision](docs/WSL_ALIGNMENT_RETENTION.md).
+
+补充 WSL ColabFold 对齐输出因来源和再分发许可待核实，暂留本地，详见[归档说明](docs/WSL_ALIGNMENT_RETENTION.md)。
+
