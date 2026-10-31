@@ -1,0 +1,114 @@
+{
+  "project": "GLP1R-reproduction",
+  "redaction_policy": "Message order and original language retained. Local absolute paths, profile data, emails, conversation/message UUIDs, private IPs, loopback endpoints and credential-shaped strings are redacted. Public SHA-256 values are for the published copy; source hashes identify local originals.",
+  "records": [
+    {
+      "record_id": "MD-031",
+      "title": "GLP1R competition context",
+      "source_relative_path": "提取GLP1R赛事信息.md",
+      "public_path": "docs/conversations/2026-10_GLP1R_competition_context_MD-031.md",
+      "source_bytes": 599256,
+      "public_bytes": 589189,
+      "source_sha256": "231f29ae56a5926e79b4dd1750173825676b562fe2c61cdd82bf0be740623b3d",
+      "public_sha256": "51ca13b3655763967ceb213c50522fae88ce17632c2b7438ea21781aa17e2494",
+      "redactions_applied": {
+        "USER_HOME": 92,
+        "LOCAL_PATH": 387,
+        "email": 1,
+        "uuid": 1
+      },
+      "message_header_counts": {
+        "user": 218,
+        "assistant": 216
+      },
+      "coverage": "Imported Markdown header counts are inventory clues only; complete source thread and branch coverage are unverified.",
+      "attachments": "No separate attachment bundle was linked to this imported record in the inventory; references, if any, are not claimed as restored."
+    },
+    {
+      "record_id": "MD-032",
+      "title": "GLP1R project handoff summary",
+      "source_relative_path": "项目交接总结.md",
+      "public_path": "docs/conversations/2026-10_GLP1R_project_handoff_summary_MD-032.md",
+      "source_bytes": 361905,
+      "public_bytes": 361690,
+      "source_sha256": "5f4d18b818276a64d8fc7eb2adeddcad0492ec7da5d9cc4c6c4a36f827ea0971",
+      "public_sha256": "6970078d985406e1fac1b9cfafee228d3c0aa088cbe59864aa956be556f8e567",
+      "redactions_applied": {
+        "USER_HOME": 1,
+        "LOCAL_PATH": 6,
+        "uuid": 1
+      },
+      "message_header_counts": {
+        "user": 62,
+        "assistant": 61
+      },
+      "coverage": "Imported Markdown header counts are inventory clues only; complete source thread and branch coverage are unverified.",
+      "attachments": "No separate attachment bundle was linked to this imported record in the inventory; references, if any, are not claimed as restored."
+    },
+    {
+      "record_id": "MD-034",
+      "title": "GLP1R ColabFold result selection",
+      "source_relative_path": "ColabFold结果取舍-(1).md",
+      "public_path": "docs/conversations/2026-10_GLP1R_ColabFold_result_selection_MD-034.md",
+      "source_bytes": 1031444,
+      "public_bytes": 1007011,
+      "source_sha256": "63cc9055308a2152976dc1edbeb56716f6b5b22394591e30aba7b029c2e06904",
+      "public_sha256": "78567b54561df101e97e2f7ae033f5a569a2ce5e6409b6925e197f02cc72b0f8",
+      "redactions_applied": {
+        "PRP_ROOT": 3,
+        "USER_HOME": 28,
+        "LOCAL_PATH": 340,
+        "email": 1,
+        "uuid": 1
+      },
+      "message_header_counts": {
+        "user": 163,
+        "assistant": 162
+      },
+      "coverage": "Imported Markdown header counts are inventory clues only; complete source thread and branch coverage are unverified.",
+      "attachments": "No separate attachment bundle was linked to this imported record in the inventory; references, if any, are not claimed as restored."
+    },
+    {
+      "record_id": "MD-035",
+      "title": "GLP1R ColabFold result selection",
+      "source_relative_path": "ColabFold结果取舍.md",
+      "public_path": "docs/conversations/2026-10_GLP1R_ColabFold_result_selection_MD-035.md",
+      "source_bytes": 150856,
+      "public_bytes": 150482,
+      "source_sha256": "4f6a29f0deeef2048edd9c204b83e5c0a24cf36e0b7f29e94a078a5e34c49a26",
+      "public_sha256": "0ce7e6f53249284483bb1a9d9b54faaa987c41c29e50efc7bb75b5c4aeb9ee9e",
+      "redactions_applied": {
+        "USER_HOME": 2,
+        "LOCAL_PATH": 8,
+        "uuid": 1
+      },
+      "message_header_counts": {
+        "user": 10,
+        "assistant": 9
+      },
+      "coverage": "Imported Markdown header counts are inventory clues only; complete source thread and branch coverage are unverified.",
+      "attachments": "No separate attachment bundle was linked to this imported record in the inventory; references, if any, are not claimed as restored."
+    },
+    {
+      "record_id": "MD-036",
+      "title": "GLP1R reproduction handoff",
+      "source_relative_path": "GLP1R复现项目交接.md",
+      "public_path": "docs/conversations/2026-10_GLP1R_reproduction_handoff_MD-036.md",
+      "source_bytes": 136229,
+      "public_bytes": 135926,
+      "source_sha256": "93a3d984b28bb448a920658e51b4f27c975dc2f68543a738d0b8dcf1ec03da1e",
+      "public_sha256": "d53dc9afa0251be65eeefd06452918dc9158c6bdcd00f54c8a53237a87913a9f",
+      "redactions_applied": {
+        "USER_HOME": 4,
+        "LOCAL_PATH": 13,
+        "uuid": 1
+      },
+      "message_header_counts": {
+        "user": 9,
+        "assistant": 9
+      },
+      "coverage": "Imported Markdown header counts are inventory clues only; complete source thread and branch coverage are unverified.",
+      "attachments": "No separate attachment bundle was linked to this imported record in the inventory; references, if any, are not claimed as restored."
+    }
+  ]
+}
